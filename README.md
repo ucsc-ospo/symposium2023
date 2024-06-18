@@ -1,2 +1,2 @@
-# symposium2023
-UC Open Source Symposium 2023
+# symposium2024
+UCSC Open Source Symposium 2024
